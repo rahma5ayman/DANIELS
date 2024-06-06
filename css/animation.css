@@ -1,0 +1,152 @@
+
+
+
+@keyframes type-writer {
+    0% {
+        content: " |";
+    }
+
+    3% {
+        content: " L|";
+    }
+
+    5% {
+        content: " La|";
+    }
+
+    7% {
+        content: " Lar|";
+    }
+
+    10% {
+        content: " Larr|";
+    }
+
+    13% {
+        content: " Larry|";
+    }
+
+    15% {
+        content: "Larry D|";
+    }
+
+    17% {
+        content: "Larry Da|";
+    }
+
+    20% {
+        content: "Larry Dan|";
+    }
+
+    22% {
+        content: "Larry Dan|";
+    }
+
+    25% {
+        content: "Larry Dani|";
+    }
+
+    27% {
+        content: "Larry Dnai|";
+    }
+
+    30% {
+        content: "Larry Dnaie|";
+    }
+
+    32% {
+        content: "Larry Dnaiel|";
+    }
+
+    35% {
+        content: "Larry Dnaiels|";
+    }
+
+    37% {
+        content: " D|";
+    }
+
+    40% {
+        content: " De|";
+    }
+
+    42% {
+        content: " Des|";
+    }
+    
+    45% {
+        content: " Desi|";
+    }
+
+    48% {
+        content: " Desig|";
+    }
+
+    50% {
+        content: " Design|";
+    }
+
+    52% {
+        content: " Designe|";
+    }
+
+    55% {
+        content: " Designer|";
+    }
+
+    57% {
+        content: " Designer|";
+    }
+
+    60% {
+        content: " Designe|";
+    }
+
+    62% {
+        content: " Design|";
+    }
+
+    65% {
+        content: " Desig|";
+    }
+
+    67% {
+        content: " Desi|";
+    }
+
+    70% {
+        content: " Des|";
+    }
+
+    72% {
+        content: " De|";
+    }
+
+    75% {
+        content: " Dev|";
+    }
+
+    77% {
+        content: " Deve|";
+    }
+
+    80% {
+        content: " Devel|";
+    }
+
+    82% {
+        content: " Develo|";
+    }
+
+    84% {
+        content: " Develop|";
+    }
+
+    86% {
+        content: " Develope|";
+    }
+
+    90% {
+        content: " Developer|";
+    }
+} 
